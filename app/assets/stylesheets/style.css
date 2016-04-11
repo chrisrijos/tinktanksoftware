@@ -227,7 +227,7 @@
   .features p {padding:0 40px;}
 
   /* Call To Action ------------------------ */
-  .calltoaction {padding:55px 0 360px; background:#fff url(images/calltoaction.jpg) no-repeat bottom center; background-size:cover; overflow:hidden;}
+  .calltoaction {padding:55px 0 360px; background:#fff  no-repeat bottom center; background-size:cover; overflow:hidden;}
   .calltoaction h2 {font-weight:300; font-size:31px; display:table; border-bottom:1px solid #e4e4e4; padding:15px; margin:0 auto; margin-bottom:25px; letter-spacing: -.05em;}
   .calltoaction h2 span {color:#fb0100; display: block; margin-top:15px; margin-bottom:15px; }
   .calltoaction .mtr-btn {margin-top:15px;}
