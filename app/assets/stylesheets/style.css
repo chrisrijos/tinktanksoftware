@@ -3,6 +3,7 @@
     1. Global
     2. Header
     3. Home Page
+    4. Instagram
     4. Shared Hosting Page
     5. VPS Page
     6. Dedicated servers
@@ -138,12 +139,15 @@
   #LoginModal .modal-body {padding:15px 50px;}
   #LoginModal .modal-body button[type="submit"] {width:auto; font-size:12px; font-weight:500; font-family: 'Roboto', Optima, Segoe, "Segoe UI", Candara, Calibri, Arial, sans-serif; text-transform: uppercase; margin:12px 0 8px; }
 
+  #instagram{
+      text-align: center;
+  }
 /* ============
   3 = Home Page
   ============ */
 
   /* Header Background ---------------------- */
-  #mainimage { position: relative;  overflow: visible; background: #282f39 url(images/pricingbox-bg-dark.jpg) no-repeat bottom center; }
+  #mainimage { position: relative;  overflow: visible; background: #282f39 url('assets/images/pricingbox-bg-dark.jpg') no-repeat bottom center; }
   #mainimage .introcaption { opacity:0; }
   #mainimage h1 { font-family: 'Roboto', Optima, Segoe, "Segoe UI", Candara, Calibri, Arial, sans-serif; text-align: center; color:#fff; padding-top:70px; z-index:2; position: relative; font-weight:100; font-size: 3.28em; text-shadow: -1px 1px 0 #2d2d2f;}
   #mainimage h1 span#js-rotating {padding:25px 25px 0;  color:#01ABEF; display:table; margin:0 auto; text-align:center; }
